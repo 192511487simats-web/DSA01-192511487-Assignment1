@@ -1,7 +1,6 @@
 #include <iostream>
 #include <iomanip>
 #include <climits>
-#include <limits>
 
 using namespace std;
 
@@ -66,12 +65,8 @@ int main()
 
     cout << "Minimum int: " << INT_MIN << '\n';
     cout << "Maximum int: " << INT_MAX << '\n';
-
-    cout << "Minimum long long: "
-         << LLONG_MIN << '\n';
-
-    cout << "Maximum long long: "
-         << LLONG_MAX << '\n';
+    cout << "Minimum long long: " << LLONG_MIN << '\n';
+    cout << "Maximum long long: " << LLONG_MAX << '\n';
 
     cout << "\n===== NETWORK COLLECTION =====\n";
 
