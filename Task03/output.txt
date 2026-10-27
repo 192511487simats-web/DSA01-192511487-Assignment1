@@ -1,0 +1,36 @@
+===== DATA TYPES AND SIZES =====
+Size of bool: 1 bytes
+Size of char: 1 bytes
+Size of int: 4 bytes
+Size of long long: 8 bytes
+Size of unsigned int: 4 bytes
+Size of float: 4 bytes
+Size of double: 8 bytes
+Size of auto variable: 4 bytes
+
+===== TYPE COMPATIBILITY =====
+Integer division assigned to double: 3
+Floating-point division: 3.5
+Integer converted to bool: true
+
+===== MONEY REPRESENTATION =====
+Fare stored in paise: Rs 10.01
+Fare stored in double: Rs 10.01
+
+===== INTEGER LIMITS =====
+Minimum int: -2147483648
+Maximum int: 2147483647
+Minimum long long: -9223372036854775808
+Maximum long long: 9223372036854775807
+
+===== NETWORK COLLECTION =====
+Journeys per day: 3000000
+Collection at Rs 30 per journey: Rs 90000000.00
+Total collection in paise: 9000000000
+Maximum int: 2147483647
+Result: int is insufficient for this total in paise.
+
+===== ROUNDING DEMONSTRATION =====
+Double total for ten 10-paise fares: 0.99999999999999989 rupees
+Integer-paise total: 100 paise
+Integer-paise total in rupees: 1.00 rupees
