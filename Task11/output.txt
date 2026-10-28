@@ -1,0 +1,10 @@
+METRO SMART-CARD FINAL DESIGN
+Minimum balance: Rs 50.00
+Zone 1 off-peak: Rs 10.00, peak: Rs 12.00
+Zone 2 off-peak: Rs 20.00, peak: Rs 24.00
+Zone 3 off-peak: Rs 30.00, peak: Rs 36.00
+Outer peak journey fare: Rs 36.00
+Journey allowed: No
+Remaining balance: Rs 100.00
+Fare lookup complexity: O(1)
+Currency storage: integer paise using long long
