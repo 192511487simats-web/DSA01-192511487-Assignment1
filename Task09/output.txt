@@ -1,0 +1,25 @@
+METRO FARE TEST REPORT
+All fares are in paise.
+
+Inner off-peak             Expected: 1000   Actual: 1000   PASS
+Inner peak                 Expected: 1200   Actual: 1200   PASS
+Middle off-peak            Expected: 2000   Actual: 2000   PASS
+Middle peak                Expected: 2400   Actual: 2400   PASS
+Outer off-peak             Expected: 3000   Actual: 3000   PASS
+Outer peak                 Expected: 3600   Actual: 3600   PASS
+Boundary 08:00             Expected: 1200   Actual: 1200   PASS
+Boundary 10:00             Expected: 1000   Actual: 1000   PASS
+Boundary 17:00             Expected: 1200   Actual: 1200   PASS
+Boundary 20:00             Expected: 1000   Actual: 1000   PASS
+Unknown zone               Expected: -1     Actual: -1     PASS
+Letters for hour           Expected: -1     Actual: -1     PASS
+
+Balance exactly Rs 50 after fare:
+PASS
+Insufficient balance:
+PASS
+Negative recharge:
+PASS
+Five-journey total:
+Expected: 9600 paise (Rs 96.00)
+Actual: 9600 paise (Rs 96.00)
