@@ -1,0 +1,10 @@
+Enter zone (1=Inner, 2=Middle, 3=Outer): Invalid input! Enter a number.
+Enter zone (1=Inner, 2=Middle, 3=Outer): Enter hour (0-23): Enter card balance in rupees: 
+===== METRO JOURNEY REPORT =====
+Zone: Outer
+Time: 09:00
+Period: Peak
+Fare: Rs 36.00
+Journey: Allowed
+Remaining balance: Rs 64.00
+================================
