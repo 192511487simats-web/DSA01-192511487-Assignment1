@@ -1,0 +1,22 @@
+DOUBLE VS INTEGER-PAISE TOTALS
+
+Journeys: 20000
+Double total: Rs 200200.00
+Integer-paise total: Rs 200200.00
+Difference: Rs 0.0000000344
+
+Journeys: 500000
+Double total: Rs 5005000.00
+Integer-paise total: Rs 5005000.00
+Difference: Rs -0.0000631316
+
+Journeys: 3000000
+Double total: Rs 30030000.00
+Integer-paise total: Rs 30030000.00
+Difference: Rs 0.0018441342
+
+INT RANGE: -2147483648 to 2147483647
+Network total: 9000000000 paise
+Network total in rupees: Rs 90000000.00
+Fits in int: No
+Fits in long long: Yes
