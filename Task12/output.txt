@@ -1,0 +1,24 @@
+METRO SMART-CARD: UPDATED DESIGN
+
+1. AIRPORT ZONE TESTS
+Airport weekday off-peak: Rs 60.00
+Airport weekday peak: Rs 72.00
+
+2. WEEKEND DISCOUNT TEST
+Outer weekend during peak hours: Rs 27.00
+
+3. MONTHLY PASS TEST
+Inner journey with pass: Rs 0.00
+Airport journey with pass: Rs 0.00
+Middle journey not covered by pass: Rs 20.00
+
+4. SMART-CARD BALANCE TEST
+Initial balance: Rs 100.00
+Airport fare: Rs 60.00
+Journey allowed: No
+Final balance: Rs 100.00
+
+5. INVALID ZONE TEST
+Invalid zone rejected: Yes
+
+Complexity: fare lookup O(1); pass lookup O(log p)
