@@ -1,0 +1,9 @@
+Procedural approach:
+Journey allowed
+Balance: Rs 64
+Object-oriented approach:
+Journey allowed
+Balance: Rs 64
+Attempt to deduct Rs 20:
+Journey denied
+Balance: Rs 64
